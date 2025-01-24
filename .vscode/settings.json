@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql.jar",
+        "q:\\Pro2.0\\Java Project\\Project Maintain and modify1\\itextpdf-5.5.13.jar",
+        "itextpdf-5.5.13.jar",
+        "target/jtable-to-pdf-1.0-SNAPSHOT.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
