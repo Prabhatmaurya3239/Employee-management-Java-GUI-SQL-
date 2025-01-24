@@ -130,18 +130,18 @@ String password = "Prabhat@1234#"; // Update with your MySQL password
 ## Screenshots
 1. **Main Application Window:**
    Displays the form to add/edit employees.
-   ![Main Window](Screenshots/Screenshot Main Aplication Windo.jpg)
+   ![Main Window](Screenshots/Screenshot_Main_Aplication_Windo.jpg)
 
 2. **Profile Panel:**
    Shows detailed information about a specific employee.
-   ![Profile Panel](Screenshots/Screenshot Profile Panal.jpg)
+   ![Profile Panel](Screenshots/Screenshot_Profile_Panal.jpg)
 
 3. **Employee Table:**
    Displays all employee records with color-coded status.
-   ![Employee Table](Screenshots/Screenshot Employee Table.jpg)
+   ![Employee Table](Screenshots/Screenshot_Employee_Table.jpg)
 4. **Main Editable Application Window:**
    Displays the form whin click edit button  employees.
-   ![Main Editable Window](Screenshots/Screenshot Main Aplication Windo.jpg)
+   ![Main Editable Window](Screenshots/Screenshot_Main_Aplication_Windo.jpg)
 
 ---
 
